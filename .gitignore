@@ -1,0 +1,36 @@
+# LaTeX intermediate files
+*.aux
+*.log
+*.toc
+*.out
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+*.bbl
+*.blg
+*.brf
+*.idx
+*.ilg
+*.ind
+*.glo
+*.gls
+*.ist
+
+# Editor / OS
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# PDFs (opcional) - comentar se quiser versionar o PDF final
+*.pdf
+
+# Large files: consider Git LFS for datasets or large images
+# *.zip
+# *.tar.gz
+# *.mp4
